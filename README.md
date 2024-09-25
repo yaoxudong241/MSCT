@@ -30,6 +30,9 @@ python test.py --test_hr_folder /path/to/hrimg/ --test_lr_folder /path/to/lrimg/
 ![ship](https://github.com/user-attachments/assets/1d434a3a-3998-4074-8312-29736034bcb7)
 Qualitative evaluation results for different SISR methods on AID dataset at a scale of 4. (a), (b) and (c) correspond to the names of images in the dataset. Our results restore sharper and more accurate boundaries, which are closer to the ground truth.
 
+## Results
+The super-resolution result images for AID, UCMerced, and SEN2VENµS can be obtained from [Google Drive](https://drive.google.com/drive/folders/17Vyd9NSD6gFQk5OjHMEgd3dhlvY8a3V4?usp=drive_link).
+
 ## Acknowledgements
 This code is built on [ESRT (Torch)](https://github.com/luissen/ESRT). We thank the authors for sharing their codes of ESRT PyTorch version.
 
