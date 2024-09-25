@@ -31,7 +31,7 @@ python test.py --test_hr_folder /path/to/hrimg/ --test_lr_folder /path/to/lrimg/
 Qualitative evaluation results for different SISR methods on AID dataset at a scale of 4. (a), (b) and (c) correspond to the names of images in the dataset. Our results restore sharper and more accurate boundaries, which are closer to the ground truth.
 
 ## Acknowledgements
-This code is built on ESRT (Torch). We thank the authors for sharing their codes of ESRT PyTorch version.
+This code is built on [ESRT (Torch)](https://github.com/luissen/ESRT). We thank the authors for sharing their codes of ESRT PyTorch version.
 
 
 
